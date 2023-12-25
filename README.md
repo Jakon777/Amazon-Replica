@@ -1,1 +1,1 @@
-# Amazon-Replica
+# Amazon-Replica by Priyanshu Tyagi
